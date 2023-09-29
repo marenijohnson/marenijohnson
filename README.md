@@ -3,7 +3,7 @@
   
 - I'm currently learning SQL using Microsoft SQL Server Management Studio, Python, and Microsoft Power BI. I am experienced in Microsoft Excel, although there are always more skills I would like to learn. I'm looking for mentors and collaborators who can guide me in my exploration of data analytics.
   
-- If you'd like to connect, you can messsage me on [LinkedIn](www.linkedin.com/in/maren-johnson-49b437156).
+- If you'd like to connect, you can messsage me on [LinkedIn](https://www.linkedin.com/in/maren%2Djohnson%2D49b437156/).
 
 <!---
 marenijohnson/marenijohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
